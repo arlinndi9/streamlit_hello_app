@@ -4,7 +4,7 @@ st.title('streamlit')
 st.text('hello')
 st.subheader('helloapp')
 today=date.today()
-f_date = date(today)
+f_date = date(2022,11,26)
 l_date = date(2023, 4, 3)
 delta = l_date - f_date
 
