@@ -11,4 +11,4 @@ delta = l_date - f_date
 st.write(today)
 st.text('github')
 st.header('my name is arlind ')
-st.title(f'ditelindja ime eshte edhe {delta.days} dite')
+st.title(f'ditelindja ime eshte edhe {delta.days} dite !')
